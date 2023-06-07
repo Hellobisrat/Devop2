@@ -4,7 +4,7 @@
 
 devop2 github repository created
 
-and its clone with the clone link git@github.com:Hellobisrat/Devop2.git
+and its clone with the clone link  git@github.com:Hellobisrat/Devop2.git
 
 in the git bash
 with the touch command created index.html
@@ -17,8 +17,8 @@ all non sematic HTML changed to Sematic HTML
 
 remove redendency in the style sheet
 
-top screen [img src="./assets/images/img-1.jpg"]
+top screen <img src="./assets/images/img-1.jpg">
 
-middle screen [img src="./assets/images/img-2.jpg"]
+middle screen <img src="./assets/images/img-2.jpg">
 
-bottom screen [img src="./assets/images/img-3.jpg"]
+bottom screen <img src="./assets/images/img-3.jpg">
